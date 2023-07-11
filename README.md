@@ -1,1 +1,2 @@
 # BoredApeGallery
+Made by SOLamy
